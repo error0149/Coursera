@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Riyan Risky W S</title>
+<title>Krushik Padshala W S</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
