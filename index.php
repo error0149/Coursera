@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Krushik Padshala W S</title>
+<title>Krushik Padshala fd59225c  W S</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
